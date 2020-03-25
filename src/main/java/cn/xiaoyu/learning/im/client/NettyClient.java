@@ -6,7 +6,7 @@ import cn.xiaoyu.learning.im.client.handler.*;
 import cn.xiaoyu.learning.im.codec.PacketDecoder;
 import cn.xiaoyu.learning.im.codec.PacketEncoder;
 import cn.xiaoyu.learning.im.codec.Spliter;
-import cn.xiaoyu.learning.im.common.ThreadPoolManager;
+import cn.xiaoyu.learning.im.util.ThreadPoolManager;
 import cn.xiaoyu.learning.im.util.SessionUtil;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.Channel;

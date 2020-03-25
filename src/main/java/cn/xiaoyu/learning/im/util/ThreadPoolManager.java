@@ -1,4 +1,4 @@
-package cn.xiaoyu.learning.im.common;
+package cn.xiaoyu.learning.im.util;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 
